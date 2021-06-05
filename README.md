@@ -1,7 +1,4 @@
 # Wordlists
-Wordlists
-
-
 
 #Download Link to Subdomains Wordlists
 
